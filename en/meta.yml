@@ -1,17 +1,20 @@
-title: musical-round
+---
 hero_image: images/banner.png
-description: musical-round description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
-site_areas:
+title: Musical Round
+description: Experiment with synths and timing to create a musical round
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
+interests: music/sound
+technologies: ''
+site_areas: codeclub, sonic-pi
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: The tune
+- title: Concurrency
+- title: 'Challenge: More instruments'
+- title: 'Challenge: More concurrency'
+
