@@ -1,8 +1,7 @@
----
 hero_image: images/banner.png
 theme: red
 duration: 1
-listed: false
+listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
@@ -13,8 +12,8 @@ interests: music/sound
 technologies: ''
 site_areas: codeclub, sonic-pi
 steps:
+- title: Introduction
 - title: The tune
 - title: Concurrency
 - title: 'Challenge: More instruments'
 - title: 'Challenge: More concurrency'
-

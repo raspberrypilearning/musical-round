@@ -1,65 +1,32 @@
-## Concurrency
+## The tune
+In the last project you used Sonic Pi to program music using letter names. This time we've provided the music for you.
 
-Now let's get two instruments working together to play the tune.
++ Choose a buffer in Sonic Pi and Load `frerejacques.txt`. Check with your Club Leader if you don't know where the file is.
 
+    ![screenshot](images/round-starter.png)
 
-
-+ We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
-
-    ![screenshot](images/round-thread.png)
-
-    In computing we call things happening at the same time 'concurrency'.
-
-+ Run your code and see if you can hear two instruments.
+    Run it. Do you recognise the tune?
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/frerejacques2.mp3" type="audio/mpeg">
-  Your browser does not support the <code>audio</code> element.
+      <source src="sounds/frerejacques1.mp3" type="audio/mpeg">
+    Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
 
-+ Look at the output and you will see the same notes being played by both instruments at the same time:
 
-    ![screenshot](images/round-conc-output.png)
++ Let's give our tune a name so that we can play it when we want to.
 
-    Each time is highlighted in a different colour.
+    ![screenshot](images/round-define.png)
 
++ Now nothing will happen if you run your code. You need to tell Sonic Pi to play 'fj'.
 
-+ Let's look at the music for this piece.
+    Add the following line to end bottom of your code:
 
-    Here are the first four bars:
+    ![screenshot](images/round-part1.png)
 
-    ![screenshot](images/round-music1.png)
++ Try playing the tune with two different instruments:
 
-    And the final four bars:
+    ![screenshot](images/round-part2.png)
 
-    ![screenshot](images/round-music2.png)
-
-    Run your Sonic Pi project again and follow along.
-
-
-+  Frere Jacques is a musical round. It's designed to sound good when multiple versions of it start at different times. You might have been involved in singing or playing a round in music lessons at school.
-
-    Let's add a sleep before the piano starts playing:
-
-    ![screenshot](images/round-sleep.png)
-
-    How does it sound?
-
-    <div id="audio-preview" class="pdf-hidden">
-    <audio controls preload>
-      <source src="sounds/frerejacques3.mp3" type="audio/mpeg">
-      Your browser does not support the <code>audio</code> element.
-    </audio>
-    </div>
-
-+ Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
-
-    ![screenshot](images/round-conc-output2.png)
-
-    This is just an excerpt, look at your Sonic Pi output to see the whole piece.
-
-
-
-
+The instruments play one after the other.
