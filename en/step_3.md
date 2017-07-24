@@ -14,7 +14,7 @@ Now let's get two instruments working together to play the tune.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/frerejacques2.mp3" type="audio/mpeg">
+      <source src="resources/frerejacques2.mp3" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -49,7 +49,7 @@ Now let's get two instruments working together to play the tune.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/frerejacques3.mp3" type="audio/mpeg">
+      <source src="resources/frerejacques3.mp3" type="audio/mpeg">
       Your browser does not support the <code>audio</code> element.
     </audio>
     </div>

@@ -7,7 +7,7 @@ In this project you will create a musical round where different instruments play
 Click the play button below to hear how your musical round will sound:
 
 <audio controls preload>
-  <source src="volunteer-resources/frerejacquesround.mp3" type="audio/mpeg">
+  <source src="resources/frerejacquesround.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 
