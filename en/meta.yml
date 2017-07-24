@@ -1,6 +1,7 @@
+---
 hero_image: images/banner.png
 theme: red
-duration: 1
+duration: 2
 listed: true
 ingredient: false
 copyedit: false
@@ -17,3 +18,4 @@ steps:
 - title: Concurrency
 - title: 'Challenge: More instruments'
 - title: 'Challenge: More concurrency'
+
