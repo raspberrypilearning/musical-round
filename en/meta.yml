@@ -10,13 +10,14 @@ title: Musical Round
 description: Experiment with synths and timing to create a musical round
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
 interests: music
-technologies: ''
+technologies: 'sonic-pi'
 site_areas: projects
 hardware: ''
-software: ''
+software: 'sonic-pi'
 version: 3
 last_tested: 2017-01-01
 steps: 
+- title: Introduction
 - title: The tune
 - title: Concurrency
 - title: 'Challenge: More instruments'
