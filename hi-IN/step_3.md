@@ -1,49 +1,49 @@
-## Concurrency
+## संगति
 
-Now let's get two instruments working together to play the tune.
+आइए अब हम धुन को बजाने के लिए एक साथ काम करने के लिए दो वाद्ययंत्रों को लें।
 
-+ We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
++ हम नहीं चाहते कि पहले संस्करण के समाप्त होने तक दूसरा संस्करण प्रतीक्षा करे, इसलिए हमें Sonic Pi को बताना होगा कि उसे प्रतीक्षा करने की आवश्यकता नहीं है। ऐसा करने के लिए हम प्रत्येक संस्करण को एक 'थ्रेड' के अंदर चलाते हैं।
     
-    ![screenshot](images/round-thread.png)
+    ![स्क्रीनशॉट](images/round-thread.png)
     
-    In computing we call things happening at the same time 'concurrency'.
+    कंप्यूटिंग में हम एक ही समय में होने वाली चीजों को 'संगति' कहते हैं।
 
-+ Run your code and see if you can hear two instruments.
++ अपना कोड चलाएँ और देखें कि क्या आप दो वाद्ययंत्रों को सुन सकते हैं।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
-+ Look at the output and you will see the same notes being played by both instruments at the same time:
++ आउटपुट देखें और आप देखेंगे कि दोनों वाद्ययंत्रों द्वारा एक ही समय पर एक जैसे स्वर चलाए जा रहे हैं:
     
-    ![screenshot](images/round-conc-output.png)
+    ![स्क्रीनशॉट](images/round-conc-output.png)
     
-    Each time is highlighted in a different colour.
+    प्रत्येक समय को एक अलग रंग में हाइलाइट किया जाता है।
 
-+ Let's look at the music for this piece.
++ आइए हम इस रचना के लिए संगीत को देखें।
     
-    Here are the first four bars:
+    यहाँ पहली चार पट्टियाँ हैं:
     
-    ![screenshot](images/round-music1.png)
+    ![स्क्रीनशॉट](images/round-music1.png)
     
-    And the final four bars:
+    और अंतिम चार पट्टियाँ:
     
-    ![screenshot](images/round-music2.png)
+    ![स्क्रीनशॉट](images/round-music2.png)
     
-    Run your Sonic Pi project again and follow along.
+    अपने Sonic Pi प्रोजेक्ट को दुबारा चलाएँ और देखें इसमें क्या है।
 
-+ Frere Jacques is a musical round. It's designed to sound good when multiple versions of it start at different times. You might have been involved in singing or playing a round in music lessons at school.
++ फ्रेरे जैक्स एक संगीत का दौर है। इसे इस तरह तैयार किया गया है कि जब इसके कई संस्करण अलग-अलग समय पर शुरू हों तो इसकी आवाज़ अच्छी लगे। शायद आपने स्कूल में गाना गाने में भाग लिया होगा या संगीत की शिक्षा पाने के लिए संगीत के पाठों का अभ्यास किया होगा।
     
-    Let's add a sleep before the piano starts playing:
+    आइए हम पियानो बजना शुरू होने से पहले एक विश्राम जोड़ें:
     
-    ![screenshot](images/round-sleep.png)
+    ![स्क्रीनशॉट](images/round-sleep.png)
     
-    How does it sound?
+    इसमें से कैसी ध्वनि आती है?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
-+ Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
++ Sonic Pi से प्राप्त आउटपुट को देखें, क्या आप देख सकते हैं कि पियानो कब बजना शुरू होता है? और कब पहला वाद्ययंत्र बजना बंद हो जाता है?
     
-    ![screenshot](images/round-conc-output2.png)
+    ![स्क्रीनशॉट](images/round-conc-output2.png)
     
-    This is just an excerpt, look at your Sonic Pi output to see the whole piece.
+    यह सिर्फ एक अंश है, पूरी रचना को देखने के लिए अपने Sonic Pi की आउटपुट को देखें।
