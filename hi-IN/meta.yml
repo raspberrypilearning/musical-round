@@ -1,27 +1,27 @@
 ---
 hero_image: images/musical-round.png
-theme: turquoise
+theme: फ़िरोज़ी
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Musical Round
-description: Experiment with synths and timing to create a musical round
+title: Musical Round (संगीत का दौर)
+description: संगीत का दौर बनाने के लिए संकलन और समय के साथ प्रयोग करना
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
-interests: music
+interests: संगीत
 technologies: ''
-site_areas: projects
+site_areas: प्रोजेक्ट
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: The tune
+    title: धुन
   - 
-    title: Concurrency
+    title: संगति
   - 
-    title: 'Challenge: More instruments'
+    title: 'चुनौती: अधिक वाद्ययंत्र'
   - 
-    title: 'Challenge: More concurrency'
+    title: 'चुनौती: अधिक संगति'
