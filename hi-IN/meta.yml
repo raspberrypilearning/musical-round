@@ -18,10 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: धुन
+    title: Introduction
   - 
-    title: संगति
+    title: The tune
   - 
-    title: 'चुनौती: अधिक वाद्ययंत्र'
+    title: Concurrency
   - 
-    title: 'चुनौती: अधिक संगति'
+    title: 'Challenge: More instruments'
+  - 
+    title: 'Challenge: More concurrency'
