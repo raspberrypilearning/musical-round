@@ -8,9 +8,13 @@
     
     इसे चलाएँ। क्या आप इस धुन को पहचानते हैं?
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/frerejacques1.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है।>
+</audio>
+</div>
+
 + आइए हम अपनी धुन को कोई नाम दें ताकि हम जब चाहें इसे चला सकें।
     
     ![screenshot](images/round-define.png)
