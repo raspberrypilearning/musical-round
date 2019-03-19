@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More instruments
+## चुनौती: अधिक वाद्ययंत्र
 
-Can you add two more instruments (synths) playing Frere Jacques so that each waits another 4 beats?
+क्या आप फ्रेरे जैक बजा रहे दो और वाद्ययंत्रों (सिंथसाइज़र) को जोड़ सकते हैं ताकि प्रत्येक दूसरे 4 बीट का इंतजार करे?
 
 \--- /challenge \---
