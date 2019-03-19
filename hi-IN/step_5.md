@@ -1,11 +1,11 @@
 --- challenge ---
 
-## Challenge: More concurrency
+## चुनौती: अधिक संगति
 
-What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
+`in_thread do` का उपयोग करके आप एक ही समय में संगीत की कई रचनाएँ चला कर और क्या कर सकते हैं?
 
-You could find the music for another round (such as London's Burning) and program that.
+आप एक और दौर के लिए संगीत (जैसे कि लंदन्स बर्निंग) ढूँढ सकते हैं और उसे प्रोग्राम कर सकते हैं।
 
-Or you could program a tune and then add rhythm in another thread.
+या आप कोई धुन प्रोग्राम कर सकते हैं और फिर किसी दूसरी कड़ी में लय जोड़ सकते हैं।
 
 --- /challenge ---
