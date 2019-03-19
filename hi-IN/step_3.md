@@ -10,9 +10,13 @@
 
 + अपना कोड चलाएँ और देखें कि क्या आप दो वाद्ययंत्रों को सुन सकते हैं।
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/frerejacques2.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+</audio>
+</div>
+
 + आउटपुट देखें और आप देखेंगे कि दोनों वाद्ययंत्रों द्वारा एक ही समय पर एक जैसे स्वर चलाए जा रहे हैं:
     
     ![स्क्रीनशॉट](images/round-conc-output.png)
@@ -39,9 +43,13 @@
     
     इसमें से कैसी ध्वनि आती है?
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/frerejacques3.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+</audio>
+</div>
+
 + Sonic Pi से प्राप्त आउटपुट को देखें, क्या आप देख सकते हैं कि पियानो कब बजना शुरू होता है? और कब पहला वाद्ययंत्र बजना बंद हो जाता है?
     
     ![स्क्रीनशॉट](images/round-conc-output2.png)
