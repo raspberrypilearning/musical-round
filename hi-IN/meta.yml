@@ -1,0 +1,23 @@
+---
+hero_image: images/musical-round.png
+theme: फ़िरोज़ी
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Musical Round (संगीत का दौर)
+description: संगीत का दौर बनाने के लिए संकलन और समय के साथ प्रयोग करना
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
+interests: संगीत
+technologies: ''
+site_areas: प्रोजेक्ट
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: धुन
+  - title: संगति
+  - title: 'चुनौती: अधिक वाद्ययंत्र'
+  - title: 'चुनौती: अधिक संगति'
