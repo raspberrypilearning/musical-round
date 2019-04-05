@@ -1,0 +1,29 @@
+---
+hero_image: images / musical-round.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, disseny-0, programació-1, phys-comp-0, fabricació-0, comunitat-0
+title: Musical Round
+description: Experiment with synths and timing to create a musical round
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
+interests: música
+technologies: ''
+site_areas: projectes
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Introducció
+  - 
+    title: The tune
+  - 
+    title: Concurrency
+  - 
+    title: 'Challenge: More instruments'
+  - 
+    title: 'Challenge: More concurrency'
