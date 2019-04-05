@@ -13,16 +13,16 @@
     </div>
 + आइए हम अपनी धुन को कोई नाम दें ताकि हम जब चाहें इसे चला सकें।
     
-    ![screenshot](images/round-define.png)
+    ![स्क्रीनशॉट](images/round-define.png)
 
 + अब यदि आप अपना कोड चलाते हैं तो कुछ नहीं होगा। आपको Sonic Pi को बताना होगा कि 'fj' को चलाए।
     
     अपने कोड में नीचे अंत में निम्न पंक्तियाँ जोड़ें:
     
-    ![screenshot](images/round-part1.png)
+    ![स्क्रीनशॉट](images/round-part1.png)
 
 + दो अलग-अलग वाद्ययंत्रों से धुन बजाने का प्रयास करें:
     
-    ![screenshot](images/round-part2.png)
+    ![स्क्रीनशॉट](images/round-part2.png)
 
 वाद्ययंत्र एक के बाद एक बजते हैं।
