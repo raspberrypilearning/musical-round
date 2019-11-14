@@ -2,7 +2,7 @@
 
 ## Herausforderung: Mehr Parallelität
 
-Was können Sie noch tun, indem Sie mit `in_thread do`mehrere Musikstücke gleichzeitig spielen?
+Was kannst du sonst tun, wenn du mehrere Musikstücke gleichzeitig mit `in_thread do` abspielst?
 
 Sie könnten die Musik für eine andere Runde (wie zum Beispiel London Burning) finden und programmieren.
 
