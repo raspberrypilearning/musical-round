@@ -31,19 +31,19 @@ Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
     
     Führe dein Sonic Pi-Projekt erneut aus und folge ihm.
 
-+ Frere Jacques ist eine musikalische Runde. Es klingt gut, wenn mehrere Versionen zu unterschiedlichen Zeiten starten. Sie waren vielleicht am Singen beteiligt oder spielten eine Runde im Musikunterricht in der Schule.
++ Frere Jacques ist eine Kanon. Es klingt gut, wenn mehrere Versionen zu unterschiedlichen Zeiten starten. Du warst vielleicht am Singen beteiligt oder hast einen Kanon im Musikunterricht in der Schule gespielt.
     
-    Lassen Sie uns einen Schlaf hinzufügen, bevor das Klavier zu spielen beginnt:
+    Lasse uns eine Pause hinzufügen, bevor das Klavier zu spielen beginnt:
     
     ![Screenshot](images/round-sleep.png)
     
     Wie hört es sich an?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Sehen Sie sich die Ausgabe von Sonic Pi an. Können Sie sehen, wann das Klavier zu spielen beginnt? Und wenn das erste Instrument aufhört zu spielen?
++ Sieh dir die Ausgabe von Sonic Pi an. Kannst du sehen, wann das Klavier zu spielen beginnt? Und wann das erste Instrument aufhört zu spielen?
     
     ![Screenshot](images/round-conc-output2.png)
     
-    Dies ist nur ein Auszug. Schauen Sie sich Ihren Sonic Pi-Ausgang an, um das ganze Stück zu sehen.
+    Dies ist nur ein Auszug. Schau dir deinen Sonic Pi-Ausgang an, um das ganze Stück zu sehen.
