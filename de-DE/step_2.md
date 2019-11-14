@@ -19,7 +19,7 @@ Im letzten Projekt hast du mit Sonic Pi Musik mit Buchstabennamen programmiert. 
     
     Füge die folgende Zeile am Ende deines Codes hinzu:
     
-    ![Screenshot](bilder/rund-part1.png)
+    ![Screenshot](images/round-part1.png)
 
 + Versuche den Ton mit zwei verschiedenen Instrumenten abzuspielen:
     
