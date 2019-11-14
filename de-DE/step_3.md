@@ -1,35 +1,35 @@
 ## Parallelität
 
-Lassen Sie uns nun zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
+Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
 
 + Wir möchten nicht, dass die zweite Version wartet, bis die erste abgeschlossen ist. Daher müssen wir Sonic Pi mitteilen, dass sie nicht warten muss. Wir machen dies, indem wir jede Version in einem 'Thread' ausführen.
     
     ![Screenshot](images/round-thread.png)
     
-    In der Informatik nennen wir Dinge, die gleichzeitig als Parallelität bezeichnet werden.
+    In der Informatik bezeichnen wir Dinge, die gleichzeitig passieren, als Parallelität.
 
-+ Führen Sie Ihren Code aus und sehen Sie, ob Sie zwei Instrumente hören können.
++ Führe deinen Code aus und schaue, ob du zwei Instrumente hören kannst.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Schauen Sie sich die Ausgabe an, und Sie sehen die gleichen Noten, die von beiden Instrumenten gleichzeitig gespielt werden:
++ Schau dir die Ausgabe an, und du wirst die gleichen Noten sehen, die von beiden Instrumenten gleichzeitig gespielt werden:
     
     ![Screenshot](images/round-conc-output.png)
     
-    Jedes Mal wird in einer anderen Farbe hervorgehoben.
+    Jedes Mal wird es in einer anderen Farbe hervorgehoben.
 
 + Schauen wir uns die Musik für dieses Stück an.
     
-    Hier sind die ersten vier Bars:
+    Hier sind die ersten vier Takte:
     
     ![Screenshot](images/round-music1.png)
     
-    Und die letzten vier Bars:
+    Und die letzten vier Takte:
     
     ![Screenshot](images/round-music2.png)
     
-    Führen Sie Ihr Sonic Pi-Projekt erneut aus und folgen Sie ihm.
+    Führe dein Sonic Pi-Projekt erneut aus und folge ihm.
 
 + Frere Jacques ist eine musikalische Runde. Es klingt gut, wenn mehrere Versionen zu unterschiedlichen Zeiten starten. Sie waren vielleicht am Singen beteiligt oder spielten eine Runde im Musikunterricht in der Schule.
     
