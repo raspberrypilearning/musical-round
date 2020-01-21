@@ -65,6 +65,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ---
 title: Project materials
 ---
+
 ## Project resources
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 

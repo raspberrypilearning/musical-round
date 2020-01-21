@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: More concurrency
 
 What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
