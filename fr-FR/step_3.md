@@ -4,7 +4,7 @@ Now let's get two instruments working together to play the tune.
 
 + We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
     
-    ![capture d'écran](images/round-thread.png)
+    ![screenshot](images/round-thread.png)
     
     In computing we call things happening at the same time 'concurrency'.
 
@@ -15,7 +15,7 @@ Now let's get two instruments working together to play the tune.
     </div>
 + Look at the output and you will see the same notes being played by both instruments at the same time:
     
-    ![capture d'écran](images/round-conc-output.png)
+    ![screenshot](images/round-conc-output.png)
     
     Each time is highlighted in a different colour.
 
@@ -23,11 +23,11 @@ Now let's get two instruments working together to play the tune.
     
     Here are the first four bars:
     
-    ![capture d'écran](images/round-music1.png)
+    ![screenshot](images/round-music1.png)
     
     And the final four bars:
     
-    ![capture d'écran](images/round-music2.png)
+    ![screenshot](images/round-music2.png)
     
     Run your Sonic Pi project again and follow along.
 
@@ -35,7 +35,7 @@ Now let's get two instruments working together to play the tune.
     
     Let's add a sleep before the piano starts playing:
     
-    ![capture d'écran](images/round-sleep.png)
+    ![screenshot](images/round-sleep.png)
     
     How does it sound?
     
@@ -44,6 +44,6 @@ Now let's get two instruments working together to play the tune.
     </div>
 + Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
     
-    ![capture d'écran](images/round-conc-output2.png)
+    ![screenshot](images/round-conc-output2.png)
     
     This is just an excerpt, look at your Sonic Pi output to see the whole piece.
