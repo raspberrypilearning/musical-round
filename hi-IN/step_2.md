@@ -1,28 +1,28 @@
-## धुन
+## The tune
 
-पिछले प्रोजेक्ट में आपने अक्षर नामों का उपयोग करके संगीत प्रोग्राम करने के लिए Sonic Pi का उपयोग किया था। इस बार आपके लिए हमने संगीत उपलब्ध किया है।
+In the last project you used Sonic Pi to program music using letter names. This time we've provided the music for you.
 
-+ Sonic Pi में एक बफर चुनें और `frerejacques.txt` लोड करें। यदि आपको पता नहीं है कि फ़ाइल कहाँ है, तो अपने क्लब लीडर से संपर्क करें।
++ Choose a buffer in Sonic Pi and Load `frerejacques.txt`. Check with your Club Leader if you don't know where the file is.
     
-    ![स्क्रीनशॉट](images/round-starter.png)
+    ![screenshot](images/round-starter.png)
     
-    इसे चलाएँ। क्या आप इस धुन को पहचानते हैं?
+    Run it. Do you recognise the tune?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ आइए हम अपनी धुन को कोई नाम दें ताकि हम जब चाहें इसे चला सकें।
++ Let's give our tune a name so that we can play it when we want to.
     
-    ![स्क्रीनशॉट](images/round-define.png)
+    ![screenshot](images/round-define.png)
 
-+ अब यदि आप अपना कोड चलाते हैं तो कुछ नहीं होगा। आपको Sonic Pi को बताना होगा कि 'fj' को चलाए।
++ Now nothing will happen if you run your code. You need to tell Sonic Pi to play 'fj'.
     
-    अपने कोड में नीचे अंत में निम्न पंक्तियाँ जोड़ें:
+    Add the following line to end bottom of your code:
     
-    ![स्क्रीनशॉट](images/round-part1.png)
+    ![screenshot](images/round-part1.png)
 
-+ दो अलग-अलग वाद्ययंत्रों से धुन बजाने का प्रयास करें:
++ Try playing the tune with two different instruments:
     
-    ![स्क्रीनशॉट](images/round-part2.png)
+    ![screenshot](images/round-part2.png)
 
-वाद्ययंत्र एक के बाद एक बजते हैं।
+The instruments play one after the other.
