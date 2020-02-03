@@ -4,7 +4,7 @@ In the last project you used Sonic Pi to program music using letter names. This 
 
 + Choose a buffer in Sonic Pi and Load `frerejacques.txt`. Check with your Club Leader if you don't know where the file is.
     
-    ![képernyőkép](images/round-starter.png)
+    ![screenshot](images/round-starter.png)
     
     Run it. Do you recognise the tune?
     
