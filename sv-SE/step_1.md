@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -16,11 +16,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Hjälpmedel
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
