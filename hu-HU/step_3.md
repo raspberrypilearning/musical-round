@@ -4,7 +4,7 @@ Now let's get two instruments working together to play the tune.
 
 + We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
     
-    ![képernyőkép](images/round-thread.png)
+    ![screenshot](images/round-thread.png)
     
     In computing we call things happening at the same time 'concurrency'.
 
