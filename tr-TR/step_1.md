@@ -1,4 +1,4 @@
-## Giriş
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,19 +8,19 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Kulüp liderleri için ek bilgiler
+### Additional information for club leaders
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/musical-round/print) kullanın.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
-## \--- küçült \---
+## \--- collapse \---
 
-## title: Kulüp lideri notları
+## title: Club leader notes
 
-## Giriş:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Kaynaklar
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -39,28 +39,28 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 * Use threads to play multiple sounds concurrently.
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Meydan Okumalar
+## Challenges
 
 * "More instruments" - Add two more instruments to add more parts to the round.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
 
-## Sıkça Sorulan Sorular
+## Frequently Asked Questions
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Proje materyalleri
+## title: Project materials
 
 ## Project resources
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Kulüp lideri için kaynaklar
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
