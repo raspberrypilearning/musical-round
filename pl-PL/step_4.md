@@ -1,4 +1,4 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Challenge: More instruments
 
