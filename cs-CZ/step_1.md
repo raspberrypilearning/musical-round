@@ -1,4 +1,4 @@
-## Úvod
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,19 +8,19 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Další informace pro vedoucí klubů
+### Additional information for club leaders
 
-Potřebujete-li tento projekt vytisknout, použijte [verzi pro tisk ](https://projects.raspberrypi.org/en/projects/musical-round/print) {: target = "_ prázdný.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## title: Poznámky vedoucího klubu
+## title: Club leader notes
 
-## Úvod:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Zdroje
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -35,15 +35,15 @@ You can find a completed version of this project by clicking the 'Project Materi
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Vzdělávací cíle
+## Learning Objectives
 
 * Use threads to play multiple sounds concurrently.
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [<0>Použij základní programovací konstrukce k vytvoření jednoduchých programů</0>{:target="_blank"}.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Výzvy
+## Challenges
 
 * "More instruments" - Add two more instruments to add more parts to the round.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
@@ -54,13 +54,13 @@ Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Ras
 
 ## \--- collapse \---
 
-## title: Materiály projektu
+## title: Project materials
 
-## Zdroje projektu
+## Project resources
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Zdroje pro vedoucího klubu
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
