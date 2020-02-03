@@ -9,7 +9,7 @@ In the last project you used Sonic Pi to program music using letter names. This 
     Run it. Do you recognise the tune?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 + Let's give our tune a name so that we can play it when we want to.
     
