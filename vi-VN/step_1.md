@@ -1,4 +1,4 @@
-## Giới thiệu
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,19 +8,19 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Thông tin bổ sung cho lãnh đạo của các câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [Phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/musical-round/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú dành cho lãnh đạo câu lạc bộ
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Tài liệu liên quan
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -35,15 +35,15 @@ You can find a completed version of this project by clicking the 'Project Materi
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Mục tiêu học tập
+## Learning Objectives
 
 * Use threads to play multiple sounds concurrently.
 
-Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Thử thách
+## Challenges
 
 * "More instruments" - Add two more instruments to add more parts to the round.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
@@ -52,15 +52,15 @@ Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi D
 
 \--- /collapse \---
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu và tài nguyên cho dự án
+## title: Project materials
 
 ## Project resources
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Tài liệu và tài nguyên cho lãnh đạo câu lạc bộ
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
