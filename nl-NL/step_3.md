@@ -11,7 +11,7 @@ Now let's get two instruments working together to play the tune.
 + Run your code and see if you can hear two instruments.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 + Look at the output and you will see the same notes being played by both instruments at the same time:
     
@@ -40,7 +40,7 @@ Now let's get two instruments working together to play the tune.
     How does it sound?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 + Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
     
