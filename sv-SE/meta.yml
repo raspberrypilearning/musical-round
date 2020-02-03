@@ -5,20 +5,20 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programmering-1, phys-comp-0, tillverkning-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Musical Round
 description: Experiment with synths and timing to create a musical round
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
-interests: musik
+interests: music
 technologies: ''
-site_areas: projekt
+site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduktion
+    title: Introduction
   - 
     title: The tune
   - 
