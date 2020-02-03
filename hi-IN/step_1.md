@@ -1,68 +1,68 @@
-## परिचय
+## Introduction
 
-इस प्रोजेक्ट में आप संगीत का दौर तैयार करेंग जहाँ विभिन्न वाद्ययंत्रों से एक ही धुन निकलती है लेकिन ये अलग-अलग समय पर शुरू होते हैं।
+In this project you will create a musical round where different instruments play the same tune but start at different times.
 
 <div id="audio-preview" class="pdf-hidden">
-  आपका संगीत का दौर कैसा लगेगा यह सुनने के लिए नीचे दिए गए प्ले (चलाएँ) बटन पर क्लिक करें: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+  Click the play button below to hear how your musical round will sound: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-क्या आप इस धुन को पहचानते हैं?
+Do you recongnise the tune?
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/musical-round/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे एक संगीत के दौर (फ्रेरे जैक्स) का प्रोग्राम तैयार करेंगे, ताकि वे यह सीख सकें कि ध्वनियों को संगति में कैसे बजाया जाए और अक्षरों के नामों का उपयोग करते हुए संगीत को कैसे प्रोग्राम किया जाए।
+In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक में निम्नलिखित संसाधन सम्मिलित हैं:
+The 'Project Materials' link for this project contains the following resources:
 
-##### प्रोजेक्ट संसाधन
+##### Project Resources
 
 * frerejacques.txt
 
-##### क्लब लीडर संसाधन
+##### Club leader Resources
 
-आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके इस प्रोजेक्ट का पूर्ण संस्करण पा सकते हैं, जिसमें निम्न शामिल हैं:
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## अध्ययन के उद्देश्य
+## Learning Objectives
 
-* कई ध्वनियों को संगति में चलाने के लिए थ्रेड्स का उपयोग करें।
+* Use threads to play multiple sounds concurrently.
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों के पहलुओं को पूरा करता है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## चुनौतियाँ
+## Challenges
 
-* "अधिक वाद्ययंत्र" - संगीत के दौर में अधिक भाग जोड़ने के लिए दो और वाद्ययंत्र जोड़ें।
-* "अधिक संगति" - संगीत की एक ऐसी नई रचना प्रोग्राम करने के लिए सीखे गए कौशल का उपयोग करें जिसमें संगति का उपयोग किया गया हो।
+* "More instruments" - Add two more instruments to add more parts to the round.
+* "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
 
-## अक्सर पूछे जाने वाले सवाल
+## Frequently Asked Questions
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## प्रोजेक्ट संसाधन
+## Project resources
 
-* [डाउनलोड करने योग्य स्टार्टर Sonic Pi प्रोजेक्ट](resources/frerejacques.txt)
+* [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## क्लब लीडर संसाधन
+## Club leader resources
 
-* [डाउनलोड करने योग्य पूर्ण Sonic Pi प्रोजेक्ट](resources/frerejacquesround.txt)
-* [डाउनलोड करने योग्य पूर्ण प्रोजेक्ट mp3 फ़ाइल](resources/frerejacquesround.mp3)
+* [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
+* [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
