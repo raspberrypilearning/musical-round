@@ -1,4 +1,4 @@
-## Introducció
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,61 +8,61 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Informació addicional per als líders del club
+### Additional information for club leaders
 
-Si necessites imprimir aquest projecte, si us plau utilitza la [versió per a imprimir](https://projects.raspberrypi.org/en/projects/musical-round/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## títol: notes del líder del club
+## title: Club leader notes
 
-## Introducció:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Recursos
+## Resources
 
-L'enllaç "Materials del projecte" d'aquest projecte conté els següents recursos:
+The 'Project Materials' link for this project contains the following resources:
 
-##### Recursos del projecte
+##### Project Resources
 
 * frerejacques.txt
 
-##### Recursos del líder del club
+##### Club leader Resources
 
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Objectius d'aprenentatge
+## Learning Objectives
 
 * Use threads to play multiple sounds concurrently.
 
-Aquest projecte cobreix elements de les següents línies del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Utilitzeu les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Reptes
+## Challenges
 
 * "More instruments" - Add two more instruments to add more parts to the round.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
 
 ## Frequently Asked Questions
 
-\--- / collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## títol: Materials del projecte
+## title: Project materials
 
-## Recursos del projecte
+## Project resources
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Recursos del líder del club
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
 
-\--- / collapse \---
+\--- /collapse \---
