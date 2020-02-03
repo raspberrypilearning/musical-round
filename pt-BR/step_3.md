@@ -15,7 +15,7 @@ Now let's get two instruments working together to play the tune.
     </div>
 + Look at the output and you will see the same notes being played by both instruments at the same time:
     
-    ![captura de tela](images/round-conc-output.png)
+    ![screenshot](images/round-conc-output.png)
     
     Each time is highlighted in a different colour.
 
