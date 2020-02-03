@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: More concurrency
 
@@ -8,4 +8,4 @@ You could find the music for another round (such as London's Burning) and progra
 
 Or you could program a tune and then add rhythm in another thread.
 
-<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
+\--- /challenge \---
