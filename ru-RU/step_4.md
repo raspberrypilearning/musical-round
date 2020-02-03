@@ -1,4 +1,4 @@
-скриншот
+\--- challenge \---
 
 ## Challenge: More instruments
 
