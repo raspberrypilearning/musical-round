@@ -23,11 +23,11 @@ Now let's get two instruments working together to play the tune.
     
     Here are the first four bars:
     
-    ![schermata](images/round-music1.png)
+    ![screenshot](images/round-music1.png)
     
     And the final four bars:
     
-    ![schermata](images/round-music2.png)
+    ![screenshot](images/round-music2.png)
     
     Run your Sonic Pi project again and follow along.
 
@@ -35,7 +35,7 @@ Now let's get two instruments working together to play the tune.
     
     Let's add a sleep before the piano starts playing:
     
-    ![schermata](images/round-sleep.png)
+    ![screenshot](images/round-sleep.png)
     
     How does it sound?
     
@@ -44,6 +44,6 @@ Now let's get two instruments working together to play the tune.
     </div>
 + Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
     
-    ![schermata](images/round-conc-output2.png)
+    ![screenshot](images/round-conc-output2.png)
     
     This is just an excerpt, look at your Sonic Pi output to see the whole piece.
