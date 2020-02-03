@@ -19,10 +19,10 @@ In the last project you used Sonic Pi to program music using letter names. This 
     
     Add the following line to end bottom of your code:
     
-    ![schermata](images/round-part1.png)
+    ![screenshot](images/round-part1.png)
 
 + Try playing the tune with two different instruments:
     
-    ![schermata](images/round-part2.png)
+    ![screenshot](images/round-part2.png)
 
 The instruments play one after the other.
