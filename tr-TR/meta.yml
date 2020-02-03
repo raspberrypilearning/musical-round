@@ -1,15 +1,15 @@
 ---
-hero_image: images / musical-round.png
+hero_image: images/musical-round.png
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-0, topluluk-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Musical Round
 description: Experiment with synths and timing to create a musical round
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
-interests: müzik
+interests: music
 technologies: ''
 site_areas: projects
 hardware: ''
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
     title: The tune
   - 
