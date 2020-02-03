@@ -13,13 +13,13 @@ In the last project you used Sonic Pi to program music using letter names. This 
     </div>
 + Let's give our tune a name so that we can play it when we want to.
     
-    ![скриншот](images/round-define.png)
+    ![screenshot](images/round-define.png)
 
 + Now nothing will happen if you run your code. You need to tell Sonic Pi to play 'fj'.
     
     Add the following line to end bottom of your code:
     
-    ![скриншот](images/round-part1.png)
+    ![screenshot](images/round-part1.png)
 
 + Try playing the tune with two different instruments:
     
