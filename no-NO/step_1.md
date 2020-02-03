@@ -1,4 +1,4 @@
-## Introduksjon
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,19 +8,19 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Ressurser
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -50,9 +50,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Frequently Asked Questions
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -65,4 +65,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
 
-\--- / kollaps \---
+\--- /collapse \---
