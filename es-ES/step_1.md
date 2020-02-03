@@ -1,4 +1,4 @@
-## Introducción
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,19 +8,19 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Información adicional para líderes de club
+### Additional information for club leaders
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/musical-round/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## título: Notas del líder del club
+## title: Club leader notes
 
-## Introducción:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
-## Recursos
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -35,32 +35,32 @@ You can find a completed version of this project by clicking the 'Project Materi
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Objetivos del Aprendizaje
+## Learning Objectives
 
 * Use threads to play multiple sounds concurrently.
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Desafíos
+## Challenges
 
 * "More instruments" - Add two more instruments to add more parts to the round.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
 
-## Preguntas frecuentes
+## Frequently Asked Questions
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materiales del proyecto
+## title: Project materials
 
-## Recursos del proyecto
+## Project resources
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Recursos para los líderes de clubes
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
