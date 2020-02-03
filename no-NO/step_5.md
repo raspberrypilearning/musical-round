@@ -1,4 +1,4 @@
-\--- utfordring \---
+\--- challenge \---
 
 ## Challenge: More concurrency
 
@@ -8,4 +8,4 @@ You could find the music for another round (such as London's Burning) and progra
 
 Or you could program a tune and then add rhythm in another thread.
 
-\--- /utfordring \---
+\--- /challenge \---
