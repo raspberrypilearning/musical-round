@@ -13,7 +13,7 @@ In the last project you used Sonic Pi to program music using letter names. This 
     </div>
 + Let's give our tune a name so that we can play it when we want to.
     
-    ![captura de tela](images/round-define.png)
+    ![screenshot](images/round-define.png)
 
 + Now nothing will happen if you run your code. You need to tell Sonic Pi to play 'fj'.
     
@@ -23,6 +23,6 @@ In the last project you used Sonic Pi to program music using letter names. This 
 
 + Try playing the tune with two different instruments:
     
-    ![captura de tela](images/round-part2.png)
+    ![screenshot](images/round-part2.png)
 
 The instruments play one after the other.
