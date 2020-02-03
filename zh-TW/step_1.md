@@ -1,4 +1,4 @@
-## 介紹
+## Introduction
 
 In this project you will create a musical round where different instruments play the same tune but start at different times.
 
@@ -8,15 +8,15 @@ In this project you will create a musical round where different instruments play
 
 Do you recongnise the tune?
 
-### Code Club 工作人員延伸閱讀
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## 介紹:
+## Introduction:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
@@ -41,7 +41,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
@@ -50,9 +50,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Frequently Asked Questions
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -65,4 +65,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
