@@ -11,7 +11,10 @@ Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
 + Führe deinen Code aus und schaue, ob du zwei Instrumente hören kannst.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+      <audio controls preload> 
+      <source src="resources/frerejacques2.mp3" type="audio/mpeg"> 
+      Ihr Browser unterstützt das <code>Audio-</code> Element nicht. 
+    </audio>
     </div>
 
 + Schau dir die Ausgabe an, und du wirst die gleichen Noten sehen, die von beiden Instrumenten gleichzeitig gespielt werden:
@@ -41,7 +44,10 @@ Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
     Wie hört es sich an?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+      <audio controls preload> 
+      <source src="resources/frerejacques3.mp3" type="audio/mpeg"> 
+      Dein Browser unterstützt das <code>Audio-</code> Element nicht. 
+    </audio>
     </div>
     
 + Sieh dir die Ausgabe von Sonic Pi an. Kannst du sehen, wann das Klavier zu spielen beginnt? Und wann das erste Instrument aufhört zu spielen?

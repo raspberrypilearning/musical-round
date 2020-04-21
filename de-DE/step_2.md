@@ -9,7 +9,10 @@ Im letzten Projekt hast du mit Sonic Pi Musik mit Buchstabennamen programmiert. 
     Starte es. Erkennst du die Melodie?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+    <audio controls preload> 
+      <source src="resources/frerejacques1.mp3" type="audio/mpeg"> 
+    Dein Browser unterstützt das <code>Audio-</code> Element nicht. 
+    </audio>
     </div>
     
 + Geben wir unserem Stück einen Namen, damit wir es spielen können, wenn wir wollen.
@@ -24,6 +27,6 @@ Im letzten Projekt hast du mit Sonic Pi Musik mit Buchstabennamen programmiert. 
 
 + Versuche den Ton mit zwei verschiedenen Instrumenten abzuspielen:
     
-    ![Screenshot](bilder/round-part2.png)
+    ![Screenshot](images/round-part2.png)
 
 Die Instrumente spielen nacheinander.
