@@ -11,9 +11,9 @@ Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
 + Führe deinen Code aus und schaue, ob du zwei Instrumente hören kannst.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/frerejacques2.mp3" type="audio/mpeg"> 
-      Ihr Browser unterstützt das <code>Audio-</code> Element nicht. 
+    Ihr Browser unterstützt das <code>Audio-</code> Element nicht. 
     </audio>
     </div>
 
@@ -44,9 +44,9 @@ Jetzt lassen wir zwei Instrumente zusammenarbeiten, um die Melodie zu spielen.
     Wie hört es sich an?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/frerejacques3.mp3" type="audio/mpeg"> 
-      Dein Browser unterstützt das <code>Audio-</code> Element nicht. 
+    Dein Browser unterstützt das <code>Audio-</code> Element nicht. 
     </audio>
     </div>
     
