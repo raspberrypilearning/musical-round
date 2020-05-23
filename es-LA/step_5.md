@@ -4,8 +4,8 @@
 
 What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
 
-You could find the music for another round (such as London's Burning) and program that.
+Podrías encontrar la música para otra ronda musical (como London's Burning) y programarla.
 
-Or you could program a tune and then add rhythm in another thread.
+O podrías programar una melodía y luego agregar ritmo en otro hilo.
 
 \--- /challenge \---
