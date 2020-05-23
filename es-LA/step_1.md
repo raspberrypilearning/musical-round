@@ -18,28 +18,28 @@ Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](h
 
 ## Introducción:
 
-In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
+En este proyecto, los niños programarán una ronda musical (Frere Jacques) para aprender a tocar sonidos simultáneamente y programar música usando nombres de letras.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' contiene los siguientes recursos para este proyecto:
 
-##### Project Resources
+##### Recursos del proyecto
 
 * frerejacques.txt
 
-##### Club leader Resources
+##### Recursos para el líder del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puedes encontrar una versión completa de este proyecto haciendo clic en el enlace 'Materiales del proyecto', que contiene:
 
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-* Use threads to play multiple sounds concurrently.
+* Use hilos para reproducir múltiples sonidos simultáneamente.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
