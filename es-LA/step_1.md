@@ -41,12 +41,12 @@ Puedes encontrar una versión completa de este proyecto haciendo clic en el enla
 
 Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utilice estructuras de programación básica para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafíos
 
-* "More instruments" - Add two more instruments to add more parts to the round.
-* "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
+* "Más instrumentos" - Agregue dos instrumentos más para añadir más partes a la ronda musical.
+* "Más concurrencia" - utilice las habilidades aprendidas para programar una nueva pieza musical que contenga programación concurrente.
 
 ## Frequently Asked Questions
 
@@ -54,15 +54,15 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
 * [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
 
-## Club leader resources
+## Recursos para el líder del club
 
 * [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
-* [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
+* [Archivo mp3 descargable del proyecto completo](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
