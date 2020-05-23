@@ -1,22 +1,22 @@
-## Introduction
+## Introducción
 
-In this project you will create a musical round where different instruments play the same tune but start at different times.
+En este proyecto crearás una ronda musical donde diferentes instrumentos tocarán la misma canción pero comenzando en diferentes tiempos.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your musical round will sound: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Haz clic en el botón de reproducción que se muestra a continuación para escuchar cómo sonaría la melodía: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-Do you recongnise the tune?
+¿Reconoces la melodía?
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
 In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
 
