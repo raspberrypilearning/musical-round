@@ -1,17 +1,17 @@
-## Concurrency
+## Programación concurrente
 
 Now let's get two instruments working together to play the tune.
 
-+ We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
++ No queremos que la segunda versión espere hasta que la primera haya terminado, así que le diremos a Sonic Pi que no necesita esperar. Haremos esto ejecutando cada versión dentro de un 'hilo'.
     
     ![screenshot](images/round-thread.png)
     
     In computing we call things happening at the same time 'concurrency'.
 
-+ Run your code and see if you can hear two instruments.
++ Ejecute su código y vea si puede escuchar los dos instrumentos.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. </audio>
     </div>
 + Look at the output and you will see the same notes being played by both instruments at the same time:
     
