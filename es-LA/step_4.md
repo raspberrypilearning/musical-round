@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More instruments
+## Desafío: Más instrumentos
 
 Can you add two more instruments (synths) playing Frere Jacques so that each waits another 4 beats?
 
