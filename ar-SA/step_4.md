@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More instruments
+## التحدي: المزيد من الأدوات الموسيقية
 
-Can you add two more instruments (synths) playing Frere Jacques so that each waits another 4 beats?
+هل يمكنك إضافة جهازين اخرين (مرادفات) لتشغيل (فري جاك) بحيث ينتظر كل منهما 4 ضربات اخرى؟
 
 \--- /challenge \---
