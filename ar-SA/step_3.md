@@ -1,48 +1,48 @@
-## Concurrency
+## التزامن
 
-Now let's get two instruments working together to play the tune.
+الآن دعونا نحصل على أداتين تعملان معًا لتشغيل اللحن.
 
-+ We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
++ نحن لا نريد أن تنتظر النسخة الثانية حتى تنتهي النسخة الأولى لذلك سنحتاج إلى إخبار Sonic Pi بأنها لا تحتاج إلى الانتظار. نقوم بذلك عن طريق تشغيل كل نسخة داخل "المقطع البرمجي".
     
     ![screenshot](images/round-thread.png)
     
-    In computing we call things happening at the same time 'concurrency'.
+    في الحوسبة نسمي الأشياء التي تحدث في نفس الوقت "التزامن".
 
-+ Run your code and see if you can hear two instruments.
++ قم بتشغيل التعليمات البرمجية الخاصة بك ومعرفة ما إذا كان يمكنك سماع الاداتين الموسيقية.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
     </div>
-+ Look at the output and you will see the same notes being played by both instruments at the same time:
++ ألق نظرة على الإخراج وستشاهد نفس النغمات التي يتم تشغيلها بواسطة كلا الاداتين في نفس الوقت:
     
     ![screenshot](images/round-conc-output.png)
     
-    Each time is highlighted in a different colour.
+    يتم تمييز كل مرة بلون مختلف.
 
-+ Let's look at the music for this piece.
++ دعونا نلقي نظرة على الموسيقى لهذه الجزء الموسيقي.
     
-    Here are the first four bars:
+    فيما يلي أول أربعة أشرطة موسيقية:
     
     ![screenshot](images/round-music1.png)
     
-    And the final four bars:
+    والاشرطة الموسيقية الاخيرة:
     
     ![screenshot](images/round-music2.png)
     
-    Run your Sonic Pi project again and follow along.
+    قم بتشغيل مشروعك الــ Sonic Pi مرة أخرى وتابعه.
 
-+ Frere Jacques is a musical round. It's designed to sound good when multiple versions of it start at different times. You might have been involved in singing or playing a round in music lessons at school.
++ (فراري جاك) هي نغمة موسيقية. لقد صممت لكي تبدو جيدة عندما تبدأ إصدارات متعددة منها في أوقات مختلفة. قد تكون شاركت في الغناء أو تشغيل نغمة موسيقية في دروس الموسيقى في المدرسة.
     
-    Let's add a sleep before the piano starts playing:
+    دعنا نضيف فاصل قبل بدء العزف على البيانو:
     
     ![screenshot](images/round-sleep.png)
     
-    How does it sound?
+    كيف يبدو صوته؟
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
-+ Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
++ انظر إلى الإخراج من Sonic Pi ، هل يمكنك أن ترى متى يبدأ البيانو في اصدار النغمة؟ وعندما تتوقف الآلة الأولى عن اصدار النغمة؟
     
     ![screenshot](images/round-conc-output2.png)
     
