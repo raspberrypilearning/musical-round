@@ -1,8 +1,8 @@
-## The tune
+## النبرة (النغمة)
 
-In the last project you used Sonic Pi to program music using letter names. This time we've provided the music for you.
+في المشروع الأخير ، استخدمت Sonic Pi لبرمجة الموسيقى باستخدام أسماء الحروف. هذه المرة قدمنا لك الموسيقى.
 
-+ Choose a buffer in Sonic Pi and Load `frerejacques.txt`. Check with your Club Leader if you don't know where the file is.
++ اختر مخزن مؤقت في Sonic Pi وتحميليه `frerejacques.txt`. Check with your Club Leader if you don't know where the file is.
     
     ![screenshot](images/round-starter.png)
     
