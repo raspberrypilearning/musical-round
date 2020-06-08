@@ -1,68 +1,68 @@
 ## المقدمة
 
-In this project you will create a musical round where different instruments play the same tune but start at different times.
+في هذا المشروع ستنشئ مقطع موسيقي حيث تبدا آلات الموسيقية المختلفة نفس النسق (النبرة) ولكن تبدأ في أوقات مختلفة.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your musical round will sound: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر على زر التشغيل أدناه لتسمع كيف ستبدو مقطعك الموسيقي: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> متصفح الانترنت الخاص بك لا يدعم عنصر <code>الصوت</code>. </audio>
 </div>
 
-Do you recongnise the tune?
+هل تميز هذه النغمة؟
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
+في هذا المشروع ، سيقوم الأطفال ببرمجة مقطع موسيقي (فرير جاك) لتعلم كيفية تشغيل الأصوات بشكل متزامن وبرمجة الموسيقى باستخدام أسماء الحروف.
 
-## Resources
+## الموارد
 
-The 'Project Materials' link for this project contains the following resources:
+يحتوي رابط "مواد المشروع" لهذا المشروع على الموارد التالية:
 
-##### Project Resources
+##### موارد المشروع
 
 * frerejacques.txt
 
-##### Club leader Resources
+##### موارد قادة النادي
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع بالنقر على رابط "مواد المشروع" لهذا المشروع، والذي يحتوي على:
 
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Learning Objectives
+## أهداف التعلم
 
-* Use threads to play multiple sounds concurrently.
+* استخدم المواضيع لتشغيل أصوات متعددة في وقت واحد.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يغطي هذا المشروع عناصر من الخطوط التالية من المنهج الدراسي الرقمي لـ [Raspberry Pi ](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## التحديات
 
-* "More instruments" - Add two more instruments to add more parts to the round.
-* "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
+* "المزيد من الأدوات الموسيقية" - إضافة أداتين إضافيتين لإضافة المزيد من المقاطع الموسيقية.
+* "المزيد من التزامن" - استخدام المهارات المكتسبة لبرمجة قطعة جديدة من الموسيقى التي تستخدم التزامن.
 
-## Frequently Asked Questions
+## الأسئلة المتكررة
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## العنوان: مواد المشروع
 
-## Project resources
+## موارد المشروع
 
-* [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
+* [تنزيل مشروع Sonic Pi](resources/frerejacques.txt)
 
-## Club leader resources
+## موارد قادة النادي
 
-* [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
-* [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
+* [مشروع Sonic Pi المكتمل للتحميل](resources/frerejacquesround.txt)
+* [ملف المشروع mp3 المكتمل للتحميل](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
