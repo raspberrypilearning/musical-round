@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: More concurrency
+## التحدي: المزيد من التزامن
 
-What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
+ما الذي يمكنك فعله أيضًا عن طريق تشغيل مقطوعات موسيقية متعددة في نفس الوقت باستخدام ` in_thread do ` ؟
 
 You could find the music for another round (such as London's Burning) and program that.
 
