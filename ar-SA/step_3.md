@@ -4,7 +4,7 @@
 
 + نحن لا نريد أن تنتظر النسخة الثانية حتى تنتهي النسخة الأولى لذلك سنحتاج إلى إخبار Sonic Pi بأنها لا تحتاج إلى الانتظار. نقوم بذلك عن طريق تشغيل كل نسخة داخل "المقطع البرمجي".
     
-    ![screenshot](images/round-thread.png)
+    ![لقطة الشاشة](images/round-thread.png)
     
     في الحوسبة نسمي الأشياء التي تحدث في نفس الوقت "التزامن".
 
@@ -15,7 +15,7 @@
     </div>
 + ألق نظرة على الإخراج وستشاهد نفس النغمات التي يتم تشغيلها بواسطة كلا الاداتين في نفس الوقت:
     
-    ![screenshot](images/round-conc-output.png)
+    ![لقطة الشاشة](images/round-conc-output.png)
     
     يتم تمييز كل مرة بلون مختلف.
 
@@ -23,11 +23,11 @@
     
     فيما يلي أول أربعة أشرطة موسيقية:
     
-    ![screenshot](images/round-music1.png)
+    ![لقطة الشاشة](images/round-music1.png)
     
     والاشرطة الموسيقية الاخيرة:
     
-    ![screenshot](images/round-music2.png)
+    ![لقطة شاشة](images/round-music2.png)
     
     قم بتشغيل مشروعك الــ Sonic Pi مرة أخرى وتابعه.
 
@@ -35,7 +35,7 @@
     
     دعنا نضيف فاصل قبل بدء العزف على البيانو:
     
-    ![screenshot](images/round-sleep.png)
+    ![لقطة الشاشة](images/round-sleep.png)
     
     كيف يبدو صوته؟
     
@@ -44,6 +44,6 @@
     </div>
 + انظر إلى الإخراج من Sonic Pi ، هل يمكنك أن ترى متى يبدأ البيانو في اصدار النغمة؟ وعندما تتوقف الآلة الأولى عن اصدار النغمة؟
     
-    ![screenshot](images/round-conc-output2.png)
+    ![لقطة الشاشة](images/round-conc-output2.png)
     
-    This is just an excerpt, look at your Sonic Pi output to see the whole piece.
+    هذا مجرد مقتطفات ، انظر إلى مخرجات Sonic Pi لرؤية القطعة الموسيقية بأكملها.
