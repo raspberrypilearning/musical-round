@@ -58,11 +58,11 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [Herunterladbares Starter-Sonic Pi-Projekt](ressourcen/frerejacques.txt)
+* [Herunterladbares Starter-Sonic Pi-Projekt](resources/frerejacques.txt)
 
 ## Ressourcen für Clubleiter
 
-* [Herunterladbares abgeschlossenes Sonic Pi-Projekt](ressourcen/frerejacquesround.txt)
-* [Herunterladbare, abgeschlossene Projekt-MP3-Datei](ressourcen/frerejacquesround.mp3)
+* [Herunterladbares abgeschlossenes Sonic Pi-Projekt](resources/frerejacquesround.txt)
+* [Herunterladbare, abgeschlossene Projekt-MP3-Datei](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
