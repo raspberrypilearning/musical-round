@@ -1,43 +1,43 @@
-## Introduction
+## Inleiding
 
-In this project you will create a musical round where different instruments play the same tune but start at different times.
+In dit project maak je een muzikale canon waar verschillende instrumenten hetzelfde nummer spelen, maar op verschillende tijden beginnen.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your musical round will sound: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Klik op de afspeelknop hieronder om te horen hoe je muzikale canon gaat klinken: <audio controls preload> <source src="resources/frerejacquesround.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
 </div>
 
-Do you recongnise the tune?
+Herken je de melodie?
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/musical-round/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/musical-round/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opmerkingen voor docenten
 
-## Introduction:
+## Inleiding:
 
-In this project, children will program a musical round (Frere Jacques) to learn how to play sounds concurrently and program music using letter names.
+In dit project programmeren kinderen een muzikale canon (Vader Jacob) om te leren hoe ze tegelijkertijd geluiden kunnen afspelen en muziek kunnen programmeren met letternamen.
 
-## Resources
+## Bronnen
 
-The 'Project Materials' link for this project contains the following resources:
+De link 'Projectmaterialen' voor dit project bevat de volgende bronnen:
 
-##### Project Resources
+##### Projectbronnen
 
 * frerejacques.txt
 
-##### Club leader Resources
+##### Clubleider bronnen
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Je kunt een voltooide versie van dit project vinden door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
 
 * frerejacquesround.txt
 * frerejacquesround.mp3
 
-## Learning Objectives
+## Leerdoelen
 
-* Use threads to play multiple sounds concurrently.
+* Gebruik threads om meerdere geluiden tegelijkertijd af te spelen.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
@@ -45,7 +45,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Challenges
 
-* "More instruments" - Add two more instruments to add more parts to the round.
+* "Meer instrumenten" - Voeg nog twee instrumenten toe om meer onderdelen aan de canon toe te voegen.
 * "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
 
 ## Frequently Asked Questions
@@ -58,11 +58,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
+* [Downloadbaar Sonic Pi startersproject](resources/frerejacques.txt)
 
 ## Club leader resources
 
-* [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
+* [Downloadbaar voltooid Sonic Pi project](resources/frerejacquesround.txt)
 * [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
