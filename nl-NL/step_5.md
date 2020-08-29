@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More concurrency
+## Uitdaging: Meer gelijktijdigheid
 
-What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
+Wat kun je nog meer doen door meerdere muziekstukken tegelijkertijd af te spelen met `in_thread do`?
 
-You could find the music for another round (such as London's Burning) and program that.
+Je zou de muziek voor een andere canon (zoals Kom mee naar buiten allemaal) kunnen opzoeken en dat kunnen programmeren.
 
-Or you could program a tune and then add rhythm in another thread.
+Je kunt ook een melodie programmeren en vervolgens een ritme in een andere thread toevoegen.
 
 \--- /challenge \---
