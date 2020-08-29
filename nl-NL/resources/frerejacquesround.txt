@@ -4,7 +4,7 @@ define :fj do
   end
   
   2.times do
-    play_pattern_timed [:e, :f, :g], [0.5, 0.5, 1]
+    play_pattern_timed [:e; :f; :g], [0.5, 0.5, 1]
   end
   
   2.times do
@@ -22,19 +22,19 @@ in_thread do
 end
 
 in_thread do
-  use_synth :piano
+  use_synth: piano
   sleep 4
   fj
 end
 
 in_thread do
-  use_synth :pluck
+  use_synth: pluck
   sleep 8
   fj
 end
 
 in_thread do
-  use_synth :tri
+  use_synth: tri
   sleep 12
   fj
 end
