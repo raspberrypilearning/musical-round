@@ -1,48 +1,48 @@
-## Concurrency
+## Gelijktijdigheid
 
-Now let's get two instruments working together to play the tune.
+Laten we nu twee instrumenten laten samenwerken om het nummer te spelen.
 
-+ We don't want the second version to wait until the first has finished so we'll need to tell Sonic Pi that it doesn't need to wait. We do this by running each version inside a 'thread'.
++ We willen niet dat de tweede versie wacht totdat de eerste is voltooid, dus moeten we Sonic Pi vertellen dat het niet hoeft te wachten. We doen dit door elke versie in een 'thread' uit te voeren.
     
-    ![screenshot](images/round-thread.png)
+    ![schermafbeelding](images/round-thread.png)
     
-    In computing we call things happening at the same time 'concurrency'.
+    In computergebruik noemen we dingen die op hetzelfde moment plaatsvinden 'gelijktijdigheid'.
 
-+ Run your code and see if you can hear two instruments.
++ Voer je code uit en kijk of je twee instrumenten kunt horen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ Look at the output and you will see the same notes being played by both instruments at the same time:
++ Kijk naar de uitvoer en je zult zien dat dezelfde noten tegelijkertijd door beide instrumenten worden gespeeld:
     
-    ![screenshot](images/round-conc-output.png)
+    ![schermafbeelding](images/round-conc-output.png)
     
-    Each time is highlighted in a different colour.
+    Ieder tijdstip is met een andere kleur gemarkeerd.
 
-+ Let's look at the music for this piece.
++ Laten we eens kijken naar de muziek voor dit stuk.
     
-    Here are the first four bars:
+    Hier zijn de eerste vier maten:
     
-    ![screenshot](images/round-music1.png)
+    ![schermafbeelding](images/round-music1.png)
     
-    And the final four bars:
+    En de laatste vier maten:
     
-    ![screenshot](images/round-music2.png)
+    ![schermafbeelding](images/round-music2.png)
     
-    Run your Sonic Pi project again and follow along.
+    Voer je Sonic Pi project opnieuw uit en volg het.
 
-+ Frere Jacques is a musical round. It's designed to sound good when multiple versions of it start at different times. You might have been involved in singing or playing a round in music lessons at school.
++ Vader Jacob is een muzikale canon. Het geluid klinkt goed wanneer meerdere versies ervan op verschillende tijden beginnen. Je hebt het misschien gezongen of gespeeld tijdens muzieklessen op school.
     
-    Let's add a sleep before the piano starts playing:
+    Laten we een pauze toevoegen voordat de piano begint te spelen:
     
-    ![screenshot](images/round-sleep.png)
+    ![schermafbeelding](images/round-sleep.png)
     
-    How does it sound?
+    Hoe klinkt het?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ Look at the output from Sonic Pi, can you see when the piano starts playing? And when the first instrument stops playing?
++ Kijk naar de uitvoer van Sonic Pi, kun je zien wanneer de piano begint te spelen? And when the first instrument stops playing?
     
     ![screenshot](images/round-conc-output2.png)
     
