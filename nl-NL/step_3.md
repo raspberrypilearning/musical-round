@@ -33,7 +33,7 @@ Laten we nu twee instrumenten laten samenwerken om het nummer te spelen.
 
 + Vader Jacob is een muzikale canon. Het geluid klinkt goed wanneer meerdere versies ervan op verschillende tijden beginnen. Je hebt het misschien gezongen of gespeeld tijdens muzieklessen op school.
     
-    Laten we een pauze toevoegen voordat de piano begint te spelen:
+    Laten we een sleep (pauze) toevoegen voordat de piano begint te spelen:
     
     ![schermafbeelding](images/round-sleep.png)
     
@@ -42,8 +42,8 @@ Laten we nu twee instrumenten laten samenwerken om het nummer te spelen.
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ Kijk naar de uitvoer van Sonic Pi, kun je zien wanneer de piano begint te spelen? And when the first instrument stops playing?
++ Kijk naar de uitvoer van Sonic Pi, kun je zien wanneer de piano begint te spelen? En wanneer het eerste instrument stopt met spelen?
     
-    ![screenshot](images/round-conc-output2.png)
+    ![schermafbeelding](images/round-conc-output2.png)
     
-    This is just an excerpt, look at your Sonic Pi output to see the whole piece.
+    Dit is slechts een uittreksel, kijk naar je Sonic Pi uitvoer om het hele stuk te zien.
