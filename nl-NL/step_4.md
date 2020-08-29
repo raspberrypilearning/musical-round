@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More instruments
+## Uitdaging: Meer instrumenten
 
-Can you add two more instruments (synths) playing Frere Jacques so that each waits another 4 beats?
+Kun je nog twee instrumenten (synths) toevoegen die Vader Jacob spelen zodat elk instrument nog 4 maten extra wacht?
 
 \--- /challenge \---
