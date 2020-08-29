@@ -39,30 +39,30 @@ Je kunt een voltooide versie van dit project vinden door te klikken op de link '
 
 * Gebruik threads om meerdere geluiden tegelijkertijd af te spelen.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Gebruik eenvoudige programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Uitdagingen
 
 * "Meer instrumenten" - Voeg nog twee instrumenten toe om meer onderdelen aan de canon toe te voegen.
-* "More concurrency" - use the skills learned to program a new piece of music that uses concurrency.
+* "Meer gelijktijdigheid" - gebruik de geleerde vaardigheden om een nieuw stuk muziek te programmeren dat gelijktijdigheid gebruikt.
 
-## Frequently Asked Questions
+## Veelgestelde vragen (faq)
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
-## Project resources
+## Projectbronnen
 
 * [Downloadbaar Sonic Pi startersproject](resources/frerejacques.txt)
 
-## Club leader resources
+## Clubleider bronnen
 
 * [Downloadbaar voltooid Sonic Pi project](resources/frerejacquesround.txt)
-* [Downloadable completed project mp3 file](resources/frerejacquesround.mp3)
+* [Downloadbaar voltooid project mp3-bestand](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
