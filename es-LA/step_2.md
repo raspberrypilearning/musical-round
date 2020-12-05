@@ -1,6 +1,6 @@
 ## La melodía
 
-En el último proyecto usaste Sonic Pi para programar música usando nombres de letras. This time we've provided the music for you.
+En el último proyecto usaste Sonic Pi para programar música usando nombres de letras. Esta vez hemos proporcionado la música para ti.
 
 + Elija un buffer en Sonic Pi y cargue ` frerejacques.txt `. Consulte con su líder de club si tiene algún inconveniente en encontrar el archivo.
     
@@ -11,13 +11,13 @@ En el último proyecto usaste Sonic Pi para programar música usando nombres de 
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. </audio>
     </div>
-+ Let's give our tune a name so that we can play it when we want to.
++ Daremos un nombre a nuestra melodía para que podamos tocarla cuando queramos.
     
     ![captura de pantalla](images/round-define.png)
 
 + Ahora no pasará nada si ejecuta su código. Necesitas decirle a Sonic Pi que reproduzca 'fj'.
     
-    Add the following line to end bottom of your code:
+    Agregue la siguiente línea en la parte de abajo de su código:
     
     ![captura de pantalla](images/round-part1.png)
 
