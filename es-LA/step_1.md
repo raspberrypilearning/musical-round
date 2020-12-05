@@ -48,7 +48,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 * "Más instrumentos" - Agregue dos instrumentos más para añadir más partes a la ronda musical.
 * "Más concurrencia" - utilice las habilidades aprendidas para programar una nueva pieza musical que contenga programación concurrente.
 
-## Frequently Asked Questions
+## Preguntas Frecuentes
 
 \--- /collapse \---
 
@@ -58,11 +58,11 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos del proyecto
 
-* [Downloadable starter Sonic Pi project](resources/frerejacques.txt)
+* [Proyecto inicial de Sonic Pi descargable](resources/frerejacques.txt)
 
 ## Recursos para el líder del club
 
-* [Downloadable completed Sonic Pi project](resources/frerejacquesround.txt)
+* [Proyecto completo de Sonic Pi descargable](resources/frerejacquesround.txt)
 * [Archivo mp3 descargable del proyecto completo](resources/frerejacquesround.mp3)
 
 \--- /collapse \---
