@@ -2,7 +2,7 @@
 
 ## Desafío: más concurrencia
 
-What else can you do by playing multiple pieces of music at the same time using `in_thread do`?
+¿Qué más puedes hacer reproduciendo varias piezas de música al mismo tiempo usando ` in_thread do `?
 
 Podrías encontrar la música para otra ronda musical (como London's Burning) y programarla.
 
