@@ -12,7 +12,7 @@ Ahora consigamos que dos instrumentos trabajen juntos para tocar la melodía.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> 
-      <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. 
+       <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. 
       </audio>
     </div>
 + Mire la salida y verá las mismas notas siendo reproducidas por ambos instrumentos al mismo tiempo:
@@ -43,7 +43,7 @@ Ahora consigamos que dos instrumentos trabajen juntos para tocar la melodía.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> 
-      <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. 
+       <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. 
       </audio>
     </div>
 + Mire el resultado de Sonic Pi, ¿puedes ver cuándo comienza a tocar el piano? ¿Y cuándo deja de tocar el primer instrumento?
