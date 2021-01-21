@@ -1,0 +1,24 @@
+---
+hero_image: images/musical-round.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Ronda musical
+description: Experimenta con sintetizadores y tiempos para crear una ronda musical
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/musical-round
+interests: music
+technologies: ''
+site_areas: projects
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducción
+  - title: La melodía
+  - title: Programación concurrente
+  - title: 'Desafío: más instrumentos'
+  - title: 'Desafío: más concurrencia'
