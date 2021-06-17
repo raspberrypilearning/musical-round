@@ -11,7 +11,10 @@ Laten we nu twee instrumenten laten samenwerken om het nummer te spelen.
 + Voer je code uit en kijk of je twee instrumenten kunt horen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    <audio controls preload> 
+      <source src="resources/frerejacques2.mp3" type="audio/mpeg"> 
+    Je browser ondersteunt het element <code>audio</code> niet. 
+    </audio>
     </div>
 + Kijk naar de uitvoer en je zult zien dat dezelfde noten tegelijkertijd door beide instrumenten worden gespeeld:
     
@@ -40,7 +43,10 @@ Laten we nu twee instrumenten laten samenwerken om het nummer te spelen.
     Hoe klinkt het?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques3.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    <audio controls preload> 
+      <source src="resources/frerejacques3.mp3" type="audio/mpeg"> 
+    Je browser ondersteunt het element <code>audio</code> niet. 
+    </audio>
     </div>
 + Kijk naar de uitvoer van Sonic Pi, kun je zien wanneer de piano begint te spelen? En wanneer het eerste instrument stopt met spelen?
     
