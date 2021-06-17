@@ -9,7 +9,10 @@ In het laatste project heb je Sonic Pi gebruikt om muziek te programmeren met le
     Voer het uit. Herken je de melodie?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/frerejacques1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    <audio controls preload> 
+      <source src="resources/frerejacques1.mp3" type="audio/mpeg"> 
+    Je browser ondersteunt het element <code>audio</code> niet. 
+    </audio>
     </div>
 + Laten we ons nummer een naam geven zodat we het kunnen afspelen wanneer we dat willen.
     
