@@ -1,6 +1,6 @@
 ---
 hero_image: images/musical-round.png
-theme:  turquoise
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,9 +16,11 @@ hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: The tune
 - title: Concurrency
 - title: 'Challenge: More instruments'
+  completion: internal
 - title: 'Challenge: More concurrency'

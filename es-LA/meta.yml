@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: La melodía
-  - title: Programación concurrente
-  - title: 'Desafío: más instrumentos'
-  - title: 'Desafío: más concurrencia'
+- title: Introducción
+  completion: engaged
+- title: La melodía
+- title: Programación concurrente
+- title: 'Desafío: más instrumentos'
+  completion: internal
+- title: 'Desafío: más concurrencia'
