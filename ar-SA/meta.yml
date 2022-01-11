@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
   - 
     title: المقدمة
+    completion: engaged
   - 
     title: الضبط (النبرة)
   - 
     title: التزامن
   - 
     title: 'تحدي: مزيد من الخطوات'
+    completion: internal
   - 
     title: 'التحدي: المزيد من التزامن'
