@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
+    completion: engaged
   - 
     title: The tune
   - 
     title: Concurrency
   - 
     title: 'Challenge: More instruments'
+    completion: internal
   - 
     title: 'Challenge: More concurrency'
