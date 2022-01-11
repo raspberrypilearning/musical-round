@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Introducción
+    completion: engaged
   - 
     title: La melodía
   - 
     title: Programación concurrente
   - 
     title: 'Desafío: Más instrumentos'
+    completion: internal
   - 
     title: 'Desafío: más concurrencia'
