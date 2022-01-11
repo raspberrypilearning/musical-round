@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Einleitung
+    completion: engaged
   - 
     title: Die Melodie
   - 
     title: Parallelität
   - 
     title: 'Herausforderung: Mehr Instrumente'
+    completion: internal
   - 
     title: 'Herausforderung: Mehr Parallelität'
