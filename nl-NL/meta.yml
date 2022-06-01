@@ -17,8 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: De melodie
-  - title: Gelijktijdigheid
-  - title: 'Uitdaging: Meer instrumenten'
-  - title: 'Uitdaging: Meer gelijktijdigheid'
+- title: Inleiding
+- title: De melodie
+- title: Gelijktijdigheid
+  completion:
+  - engaged
+  - internal
+- title: 'Uitdaging: Meer instrumenten'
+- title: 'Uitdaging: Meer gelijktijdigheid'

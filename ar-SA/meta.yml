@@ -17,8 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: الضبط (النبرة)
-  - title: التزامن
-  - title: 'تحدي: مزيد من الخطوات'
-  - title: 'التحدي: المزيد من التزامن'
+- title: المقدمة
+- title: الضبط (النبرة)
+- title: التزامن
+  completion:
+  - engaged
+  - internal
+- title: 'تحدي: مزيد من الخطوات'
+- title: 'التحدي: المزيد من التزامن'
